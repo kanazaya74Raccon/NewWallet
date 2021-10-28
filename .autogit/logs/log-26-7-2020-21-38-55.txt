@@ -1,0 +1,20 @@
+-------------------- Auto-Git Log --------------------
+		Wed Aug 26 2020 21:38:55 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* android/app/src/main/AndroidManifest.xml
+* android/app/src/main/res/drawable/background_splash.xml
+* android/app/src/main/res/values/colors.xml
+* android/app/src/main/res/values/styles.xml
+
+
+Created files:
+* .autogit/logs/log-26-7-2020-17-50-43.txt
+
+
+Deleted files:
+* android/app/src/main/res/drawable/splashscreen_image.png
+
+
+Renamed files:

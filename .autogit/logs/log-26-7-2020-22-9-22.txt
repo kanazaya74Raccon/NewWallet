@@ -1,0 +1,19 @@
+-------------------- Auto-Git Log --------------------
+		Wed Aug 26 2020 22:09:22 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* android/app/src/main/AndroidManifest.xml
+* android/app/src/main/java/com/aegirwallet/MainActivity.java
+
+
+Created files:
+* .autogit/logs/log-26-7-2020-21-38-55.txt
+* android/app/src/main/java/com/aegirwallet/SplashActivity.java
+* android/app/src/main/res/layout/launch_screen.xml
+
+
+Deleted files:
+
+
+Renamed files:

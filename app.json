@@ -1,0 +1,12 @@
+{
+  "name": "aegirwallet",
+  "displayName": "Aegir Wallet",
+  "expo": {
+    "name": "aegirwallet",
+    "slug": "aegirwallet",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}

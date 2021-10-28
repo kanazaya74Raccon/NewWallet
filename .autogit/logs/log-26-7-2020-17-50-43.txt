@@ -1,0 +1,38 @@
+-------------------- Auto-Git Log --------------------
+		Wed Aug 26 2020 17:50:43 GMT+0100 (West Africa Standard Time)
+------------------------------------------------------
+
+Modified files:
+* android/app/src/main/res/mipmap-hdpi/ic_launcher.png
+* android/app/src/main/res/mipmap-mdpi/ic_launcher.png
+* android/app/src/main/res/mipmap-xhdpi/ic_launcher.png
+* android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+* android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+* app.json
+* index.js
+* package.json
+* yarn.lock
+
+
+Created files:
+* android/app/src/main/res/drawable/background_splash.xml
+* android/app/src/main/res/mipmap-hdpi/splash_icon.png
+* android/app/src/main/res/mipmap-mdpi/splash_icon.png
+* android/app/src/main/res/mipmap-xhdpi/splash_icon.png
+* android/app/src/main/res/mipmap-xxhdpi/splash_icon.png
+* android/app/src/main/res/mipmap-xxxhdpi/splash_icon.png
+* src/App.js
+
+
+Deleted files:
+* App.js
+* android/app/src/main/res/drawable/splashscreen.xml
+* android/app/src/main/res/drawable/splashscreen_image.png
+* android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png
+* android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png
+* android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png
+* android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png
+* android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png
+
+
+Renamed files:
